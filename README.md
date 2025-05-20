@@ -13,7 +13,7 @@
 - ☁️ Docker, GitHub Actions
 - 🧠 AI & Computer Vision (OpenCV, TensorFlow)
 - 📱 Flutter, Android
-
+## 💻 Technologies
 ```bash
  CSS3 • GraphQL • HTML5 • Java • JavaScript • PHP • Python • .NET  
 Angular • Bootstrap • Express.js • JWT • NPM • Node.js • Nodemon  
