@@ -12,7 +12,17 @@
 - 🗄️ MySQL, MongoDB
 - ☁️ Docker, GitHub Actions
 - 🧠 AI & Computer Vision (OpenCV, TensorFlow)
-- 📱 Android, Arduino, Raspberry Pi
+- 📱 Flutter, Android
+
+```bash
+ CSS3 • GraphQL • HTML5 • Java • JavaScript • PHP • Python • .NET  
+Angular • Bootstrap • Express.js • JWT • NPM • Node.js • Nodemon  
+React  • React Router • React Hook Form • SASS • Socket.io  
+Spring • Symfony • TailwindCSS • Vite • Jenkins
+MongoDB • MySQL • Hibernate  
+Canva • Figma • Git • GitHub • Docker • Grafana • Jira  
+Kubernetes • Postman • Prometheus • SonarLint • SonarQube • Swagger • Trello
+
 
 ---
 
