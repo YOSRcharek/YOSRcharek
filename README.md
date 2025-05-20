@@ -7,22 +7,19 @@
 
 ## 💻 Technologies & Tools
 
-- 🖥️ Java, Spring Boot
-- ⚙️ JavaScript, Node.js, React
-- 🗄️ MySQL, MongoDB
-- ☁️ Docker, GitHub Actions
+- 🖥️ Java, Spring Boot, .NET, PHP, Python
+- ⚙️ JavaScript, Node.js, React, Angular, Express.js
+- 🌐 HTML5, CSS3, SASS, TailwindCSS, Bootstrap, Vite
+- 🔐 JWT, React Router, React Hook Form
+- 📦 NPM, Nodemon
+- 📊 MySQL, MongoDB, Hibernate
 - 🧠 AI & Computer Vision (OpenCV, TensorFlow)
+- 🧰 Jenkins, Git, GitHub, Docker, GitHub Actions, Nginx
+- 📈 Grafana, Prometheus, SonarLint, SonarQube, Swagger
+- ☁️ Kubernetes, Postman, Trello, Jira
 - 📱 Flutter, Android
-## 💻 Technologies
-```bash
- CSS3 • GraphQL • HTML5 • Java • JavaScript • PHP • Python • .NET  
-Angular • Bootstrap • Express.js • JWT • NPM • Node.js • Nodemon  
-React  • React Router • React Hook Form • SASS • Socket.io  
-Spring • Symfony • TailwindCSS • Vite • Jenkins
-MongoDB • MySQL • Hibernate  
-Canva • Figma • Git • GitHub • Docker • Grafana • Jira  
-Kubernetes • Postman • Prometheus • SonarLint • SonarQube • Swagger • Trello
-
+- 🎨 Figma, Canva
+- 🧵 Socket.io, GraphQL, Symfony
 
 ---
 
@@ -35,7 +32,7 @@ Kubernetes • Postman • Prometheus • SonarLint • SonarQube • Swagger �
 ## 📫 Connect with me
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOSRcharek)
-- 💌 Email: yosryassoura31@gmail.com *(replace with your real email)*
+- 💌 Email: yosryassoura31@gmail.com
 
 ---
 
