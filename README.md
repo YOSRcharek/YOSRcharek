@@ -96,7 +96,7 @@
 
 ## 🧠 Dev Quote
 
-> “"Behind every great front-end is... a back-end silently screaming."”  
+> “Behind every great front-end is... a back-end silently screaming.”  
 > — *Mine*
 
 ---
@@ -105,6 +105,3 @@
 ## 🎮 The Final Section – Let's Play a Game!
 
 🕹️ Try this simple terminal game I built: [Play Now](https://replit.com/@YOSRcharek/TheFinalSection)
-
-> A quick terminal puzzle game built with Python.
-![Game](https://github.com/YOSRcharek/YOSRcharek/assets/yourgame.gif)
