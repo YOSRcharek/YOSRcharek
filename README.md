@@ -28,8 +28,6 @@ Kubernetes • Postman • Prometheus • SonarLint • SonarQube • Swagger �
 
 ## 🚀 Projects I'm Working On
 
-- 🌍 **EcoActif** – a platform for natural resource conservation aligned with UN SDGs.
-- 🦮 **Smart Glasses** for blind assistance using AI and embedded systems.
 - 🧑‍⚕️ **Emergency Management System** (SIGU) – real-time ambulance coordination with mapping.
 
 ---
@@ -37,7 +35,7 @@ Kubernetes • Postman • Prometheus • SonarLint • SonarQube • Swagger �
 ## 📫 Connect with me
 
 - 💼 [LinkedIn](https://linkedin.com/in/YOSRcharek)
-- 💌 Email: yosr@example.com *(replace with your real email)*
+- 💌 Email: yosryassoura31@gmail.com *(replace with your real email)*
 
 ---
 
