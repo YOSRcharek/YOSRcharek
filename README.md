@@ -96,7 +96,15 @@
 
 ## 🧠 Dev Quote
 
-> “A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.”  
-> — *Alan Turing*
+> “"Behind every great front-end is... a back-end silently screaming."”  
+> — *Mine*
 
 ---
+---
+
+## 🎮 The Final Section – Let's Play a Game!
+
+🕹️ Try this simple terminal game I built: [Play Now](https://replit.com/@YOSRcharek/TheFinalSection)
+
+> A quick terminal puzzle game built with Python.
+![Game](https://github.com/YOSRcharek/YOSRcharek/assets/yourgame.gif)
