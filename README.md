@@ -12,7 +12,7 @@
 - 🎯 Goals: Build smart applications that empower users
 - 🍿 Fun fact: I enjoy watching mystery and tech documentaries!
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212750821-8554a223-917e-464e-a232-20d18e6f8706.png" width="200"/>
+
 
 ---
 
