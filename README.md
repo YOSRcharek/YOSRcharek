@@ -21,6 +21,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosr-charek)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yosr.charek@esprit.tn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://yosr-charek.netlify.app/)
+[![Download CV](https://img.shields.io/badge/Download_CV-4CAF50?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc)
+[![Cover Letter](https://img.shields.io/badge/Cover_Letter-2196F3?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe)
 
 ---
 
