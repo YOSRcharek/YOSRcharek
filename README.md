@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yosr Charek!
+# 💬 Just another dev making the web a little smarter — Yosr Charek.
 
 🎓 I'm a passionate developer and tech enthusiast from Tunisia 🇹🇳  
 🌱 Currently learning and building projects using modern web and backend technologies.
