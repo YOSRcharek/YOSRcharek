@@ -1,5 +1,4 @@
-# <img width="32" height="32" alt="1f47d" src="https://github.com/user-attachments/assets/5695b860-342e-4176-8d62-4b6ad6b0d474" />
-💬 Just another dev making the web a little smarter — Yosr Charek.
+# 👽 Code. Debug. Repeat. — Yosr Charek here!
 
 🎓 I'm a passionate developer and tech enthusiast from Tunisia 🇹🇳  
 🌱 Currently learning and building projects using modern web and backend technologies.
