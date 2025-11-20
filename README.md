@@ -23,18 +23,18 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:yosr.charek@esprit.tn" target="_blank">
-   <img align="center" height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/e3769f01-e0d7-4e8d-b87f-fe0cc3c264e2" />
+   <img align="center" height="40" width="40" alt="image" src="https://github.com/user-attachments/assets/e3769f01-e0d7-4e8d-b87f-fe0cc3c264e2" />
 
   </a>
   <a href="https://yosr-charek.netlify.app/" target="_blank">
-    <img align="center"height="30" width="40"  alt="image" src="https://github.com/user-attachments/assets/ba5260fe-4fba-4342-8b48-9c5b045c3faa"  />
+    <img align="center"height="40" width="40"  alt="image" src="https://github.com/user-attachments/assets/ba5260fe-4fba-4342-8b48-9c5b045c3faa"  />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc" target="_blank">
-<img align="center" alt="Download CV" height="30" width="40"  src="https://github.com/user-attachments/assets/b619278e-23c9-4763-9e0d-acc48e9e5471" />
+<img align="center" alt="Download CV" height="40" width="40"  src="https://github.com/user-attachments/assets/b619278e-23c9-4763-9e0d-acc48e9e5471" />
 
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe" target="_blank">
-  <img align="center" alt="Cover Letter" height="30" width="40"  src="https://github.com/user-attachments/assets/1044aa77-75b4-4142-9f64-94f9a60d86eb" />
+  <img align="center" alt="Cover Letter" height="40" width="40"  src="https://github.com/user-attachments/assets/1044aa77-75b4-4142-9f64-94f9a60d86eb" />
   </a>
    <a href="https://www.facebook.com/yosr.bj.7/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
