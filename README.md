@@ -27,7 +27,7 @@
 
   </a>
   <a href="https://yosr-charek.netlify.app/" target="_blank">
-    <img align="center"height="30" width="40"  alt="image" src="https://github.com/user-attachments/assets/480f3c24-3881-4918-a73a-4c570145c610" />
+    <img align="center"height="30" width="40"  alt="image" src="https://github.com/user-attachments/assets/ba5260fe-4fba-4342-8b48-9c5b045c3faa"  />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc" target="_blank">
 <img align="center" alt="Download CV" height="30" width="40"  src="https://github.com/user-attachments/assets/b619278e-23c9-4763-9e0d-acc48e9e5471" />
