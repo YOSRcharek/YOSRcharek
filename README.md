@@ -23,7 +23,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="mailto:yosr.charek@esprit.tn" target="_blank">
-   <img align="center" height="60" width="40" alt="image" src="https://github.com/user-attachments/assets/a99d66cc-3ca7-44b7-8309-7c75faa44883" />
+   <img align="center" height="60" width="40" alt="image" src="https://github.com/user-attachments/assets/8428b987-77aa-483c-8353-70e05f475775" />
 
   </a>
   <a href="https://yosr-charek.netlify.app/" target="_blank">
