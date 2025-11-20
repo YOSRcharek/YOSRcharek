@@ -93,9 +93,24 @@
 
 ## 📊 GitHub Stats
 
+### 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOSRcharek&theme=default)](https://git.io/streak-stats)
+
+---
+
+### 🧩 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOSRcharek&layout=compact&theme=default)
+
+---
+
+### ⭐ Total Contributions
 ![YOSR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default)
 
 ---
+
+### 📅 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOSRcharek&theme=github)
+
 
 ## 🧠 Dev Quote
 
