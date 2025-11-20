@@ -16,13 +16,14 @@
 
 ---
 
-## 🌍 Connect with me:
+## 🌍 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosr-charek)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yosr.charek@esprit.tn)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://yosr-charek.netlify.app/)  
-[![Download CV](https://img.shields.io/badge/Download%20CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc)  
-[![Cover Letter](https://img.shields.io/badge/Cover%20Letter-2196F3?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe)
+[![🔗 LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosr-charek)  
+[![✉️ Email](https://img.shields.io/badge/✉️%20Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yosr.charek@esprit.tn)  
+[![🌐 Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://yosr-charek.netlify.app/)  
+[![📄 Download CV](https://img.shields.io/badge/📄%20Download%20CV-4CAF50?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc)  
+[![📝 Cover Letter](https://img.shields.io/badge/📝%20Cover%20Letter-2196F3?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe)
+
 
 
 
