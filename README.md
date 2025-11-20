@@ -20,19 +20,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yosr-charek" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:yosr.charek@esprit.tn" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30" />
   </a>
   <a href="https://yosr-charek.netlify.app/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/netlify.svg" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/netlify.svg" alt="Portfolio" height="30" width="30" />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-drive.svg" alt="Download CV" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google-drive.svg" alt="Download CV" height="30" width="30" />
   </a>
   <a href="https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-drive.svg" alt="Cover Letter" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/google-drive.svg" alt="Cover Letter" height="30" width="30" />
   </a>
 </p>
 
