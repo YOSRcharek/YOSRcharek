@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yosr-charek" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
   <a href="mailto:yosr.charek@esprit.tn" target="_blank">
    <img align="center" height="40" width="40" alt="image" src="https://github.com/user-attachments/assets/e3769f01-e0d7-4e8d-b87f-fe0cc3c264e2" />
@@ -37,10 +37,10 @@
   <img align="center" alt="Cover Letter" height="40" width="40"  src="https://github.com/user-attachments/assets/1044aa77-75b4-4142-9f64-94f9a60d86eb" />
   </a>
    <a href="https://www.facebook.com/yosr.bj.7/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://www.instagram.com/yosr_charek/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
