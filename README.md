@@ -21,7 +21,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosr-charek) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yosr.charek@esprit.tn) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://yosr-charek.netlify.app/) [![Download CV](https://img.shields.io/badge/Download_CV-4CAF50?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc) [![Cover Letter](https://img.shields.io/badge/Cover_Letter-2196F3?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe)
 
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ghayth weslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghayth weslati" height="30" width="40" /></a>
+<a href="https://fb.com/ghayth weslati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ghayth weslati" height="30" width="40" /></a>
+<a href="https://instagram.com/we_ghayyyyyyyyyth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="we_ghayyyyyyyyyth" height="30" width="40" /></a>
+</p>
 
 ---
 
