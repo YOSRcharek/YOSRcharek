@@ -18,11 +18,45 @@
 
 ## 🌍 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosr-charek)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yosr.charek@esprit.tn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://yosr-charek.netlify.app/)
-[![Download CV](https://img.shields.io/badge/Download_CV-4CAF50?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc)
-[![Cover Letter](https://img.shields.io/badge/Cover_Letter-2196F3?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe)
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+
+  <a href="https://www.linkedin.com/in/yosr-charek" target="_blank" style="text-decoration: none;">
+    <div style="display:flex; align-items:center; gap:6px; padding:8px 14px; background:#0077B5; color:white; border-radius:12px; font-weight:bold; font-family:sans-serif;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20" height="20" style="filter: invert(1);" />
+      LinkedIn
+    </div>
+  </a>
+
+  <a href="mailto:yosr.charek@esprit.tn" style="text-decoration: none;">
+    <div style="display:flex; align-items:center; gap:6px; padding:8px 14px; background:#D14836; color:white; border-radius:12px; font-weight:bold; font-family:sans-serif;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="20" height="20" style="filter: invert(1);" />
+      Email
+    </div>
+  </a>
+
+  <a href="https://yosr-charek.netlify.app/" target="_blank" style="text-decoration: none;">
+    <div style="display:flex; align-items:center; gap:6px; padding:8px 14px; background:#000000; color:white; border-radius:12px; font-weight:bold; font-family:sans-serif;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/netlify.svg" width="20" height="20" style="filter: invert(1);" />
+      Portfolio
+    </div>
+  </a>
+
+  <a href="https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc" target="_blank" style="text-decoration: none;">
+    <div style="display:flex; align-items:center; gap:6px; padding:8px 14px; background:#4CAF50; color:white; border-radius:12px; font-weight:bold; font-family:sans-serif;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googledrive.svg" width="20" height="20" style="filter: invert(1);" />
+      Download CV
+    </div>
+  </a>
+
+  <a href="https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe" target="_blank" style="text-decoration: none;">
+    <div style="display:flex; align-items:center; gap:6px; padding:8px 14px; background:#2196F3; color:white; border-radius:12px; font-weight:bold; font-family:sans-serif;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googledrive.svg" width="20" height="20" style="filter: invert(1);" />
+      Cover Letter
+    </div>
+  </a>
+
+</div>
+
 
 ---
 
@@ -82,12 +116,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-
----
-
-## 🚀 Projects I'm Working On
-
-- 🧑‍⚕️ **Emergency Management System (SIGU)** – real-time ambulance coordination with mapping and smart data handling
 
 ---
 
