@@ -165,8 +165,8 @@
 
 ---
 
-### ⭐ Total Contributions
-![YOSR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default)
+### ⭐ Total Contributions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  📅 Activity Graph
+![YOSR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default) ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOSRcharek&theme=default)
 
 ---
 
