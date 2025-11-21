@@ -18,31 +18,31 @@
 
 ## 🌍 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/yosr-charek" target="_blank" title="LinkedIn" style="margin-right:15px;">
+  <a href="https://www.linkedin.com/in/yosr-charek" target="_blank" title="LinkedIn" style="margin-right:50px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
 
-  <a href="https://yosr-charek.netlify.app/" target="_blank" title="Portfolio" style="margin-right:15px;">
+  <a href="https://yosr-charek.netlify.app/" target="_blank" title="Portfolio" style="margin-right:50px;">
     <img align="center" src="https://github.com/user-attachments/assets/ba5260fe-4fba-4342-8b48-9c5b045c3faa" alt="Portfolio" height="40" width="40" />
   </a>
 
-  <a href="https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc" target="_blank" title="Download CV" style="margin-right:15px;">
+  <a href="https://drive.google.com/uc?export=download&id=1kxKES5A8ijPo2LN1i8wGwrLQF2hVCGTc" target="_blank" title="Download CV" style="margin-right:50px;">
     <img align="center" src="https://github.com/user-attachments/assets/b619278e-23c9-4763-9e0d-acc48e9e5471" alt="Download CV" height="40" width="40" />
   </a>
 
-  <a href="https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe" target="_blank" title="Cover Letter" style="margin-right:15px;">
+  <a href="https://drive.google.com/uc?export=download&id=1ttsSo37lanQ7OcgIHhSqQnfR0S1kyyDe" target="_blank" title="Cover Letter" style="margin-right:50px;">
     <img align="center" src="https://github.com/user-attachments/assets/1044aa77-75b4-4142-9f64-94f9a60d86eb" alt="Cover Letter" height="40" width="40" />
   </a>
 
-  <a href="https://www.facebook.com/yosr.bj.7/" target="_blank" title="Facebook" style="margin-right:15px;">
+  <a href="https://www.facebook.com/yosr.bj.7/" target="_blank" title="Facebook" style="margin-right:50px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
 
-  <a href="https://www.instagram.com/yosr_charek/" target="_blank" title="Instagram" style="margin-right:15px;">
+  <a href="https://www.instagram.com/yosr_charek/" target="_blank" title="Instagram" style="margin-right:50px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 
-  <a href="mailto:yosr.charek@esprit.tn" target="_blank" title="Email" style="margin-right:15px;">
+  <a href="mailto:yosr.charek@esprit.tn" target="_blank" title="Email" style="margin-right:50px;">
     <img align="center" src="https://github.com/user-attachments/assets/bbb2ce7d-15e0-49a1-b770-20e7cd352cd6" alt="Email" height="50" width="50" />
   </a>
 </p>
