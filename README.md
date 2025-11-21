@@ -47,8 +47,6 @@
 
 <section class="skills">
   <div class="skills-container">
-
-    <!-- Programming Languages -->
     <div class="skill-category">
       <h4 class="h4 category-title">Programming Languages</h4>
       <a href="#" target="_blank" title="Java">
@@ -74,7 +72,6 @@
       </a>
     </div>
 
-    <!-- Frontend -->
     <div class="skill-category">
       <h4 class="h4 category-title">Frontend</h4>
       <a href="#" target="_blank" title="HTML5">
@@ -103,7 +100,6 @@
       </a>
     </div>
 
-    <!-- Backend -->
     <div class="skill-category">
       <h4 class="h4 category-title">Backend</h4>
       <a href="#" target="_blank" title="Node.js">
@@ -129,7 +125,6 @@
       </a>
     </div>
 
-    <!-- Databases -->
     <div class="skill-category">
       <h4 class="h4 category-title">Databases</h4>
       <a href="#" target="_blank" title="MySQL">
