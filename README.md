@@ -22,9 +22,7 @@
   <a href="https://www.linkedin.com/in/yosr-charek" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="mailto:yosr.charek@esprit.tn" target="_blank">
-   <img align="center" height="50" width="50" alt="image" src="https://github.com/user-attachments/assets/3e331df1-38a6-4103-b72c-5bbbfb5acffc" />
-  </a>
+
   <a href="https://yosr-charek.netlify.app/" target="_blank">
     <img align="center"height="40" width="40"  alt="image" src="https://github.com/user-attachments/assets/ba5260fe-4fba-4342-8b48-9c5b045c3faa"  />
   </a>
@@ -40,6 +38,9 @@
   </a>
   <a href="https://www.instagram.com/yosr_charek/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+    <a href="mailto:yosr.charek@esprit.tn" target="_blank">
+   <img align="center" height="50" width="50" alt="image" src="https://github.com/user-attachments/assets/bbb2ce7d-15e0-49a1-b770-20e7cd352cd6" />
   </a>
 </p>
 
