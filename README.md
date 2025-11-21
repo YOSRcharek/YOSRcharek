@@ -161,23 +161,22 @@
 
 ## 📊 GitHub Stats
 
-<section class="github-stats" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: flex-start;">
+<div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap; align-items: flex-start;">
 
   <!-- GitHub Streak -->
-  <div class="github-streak" style="flex: 1 1 300px; text-align: center;">
-    <h4>🔥 GitHub Streak</h4>
+  <div style="text-align: center;">
     <a href="https://git.io/streak-stats" target="_blank">
-      <img src="https://streak-stats.demolab.com?user=YOSRcharek&theme=default" alt="GitHub Streak" style="max-width:100%;">
+      <img src="https://streak-stats.demolab.com?user=YOSRcharek&theme=default" alt="GitHub Streak" style="max-width: 300px;">
     </a>
   </div>
 
   <!-- Most Used Languages -->
-  <div class="github-languages" style="flex: 1 1 300px; text-align: center;">
-    <h4>🧩 Most Used Languages</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOSRcharek&layout=compact&theme=default" alt="Top Languages" style="max-width:100%;">
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOSRcharek&layout=compact&theme=default" alt="Top Languages" style="max-width: 300px;">
   </div>
 
-</section>
+</div>
+
 
 ---
 
