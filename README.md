@@ -71,7 +71,6 @@
         <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" height="40">
       </a>
     </div>
-
     <div class="skill-category">
       <h4 class="h4 category-title">Frontend</h4>
       <a href="#" target="_blank" title="HTML5">
@@ -99,7 +98,6 @@
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" height="40">
       </a>
     </div>
-
     <div class="skill-category">
       <h4 class="h4 category-title">Backend</h4>
       <a href="#" target="_blank" title="Node.js">
@@ -124,7 +122,6 @@
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="40">
       </a>
     </div>
-
     <div class="skill-category">
       <h4 class="h4 category-title">Databases</h4>
       <a href="#" target="_blank" title="MySQL">
@@ -143,8 +140,6 @@
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="40">
       </a>
     </div>
-
-    <!-- DevOps & Tools -->
     <div class="skill-category">
       <h4 class="h4 category-title">DevOps & Tools</h4>
       <a href="#" target="_blank" title="Docker">
@@ -172,7 +167,6 @@
         <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger" height="40">
       </a>
     </div>
-
   </div>
 </section>
 
