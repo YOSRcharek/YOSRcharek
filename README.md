@@ -17,9 +17,9 @@
 ---
 
 ## 🌍 Connect with me
-<p align="left">
+<p >
   <a href="https://www.linkedin.com/in/yosr-charek" target="_blank" title="LinkedIn" style="margin-right:50px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"  />
   </a>
 
   <a href="https://yosr-charek.netlify.app/" target="_blank" title="Portfolio" style="margin-right:50px;">
