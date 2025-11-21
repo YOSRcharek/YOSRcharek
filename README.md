@@ -165,9 +165,8 @@
 
 ---
 
-### ⭐ Total Contributions &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📅 Activity Graph
-
-![YOSR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default&hide_title=false&hide_border=true&count_private=true&include_all_commits=true) &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOSRcharek&theme=default&width=300)
+### ⭐ Total Contributions 
+![YOSR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default&hide_title=false&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
@@ -185,6 +184,7 @@
 
 ## 🎮 The Final Section – Let's Play a Game!
 
-🕹️ Try this simple terminal game I built: [Play Now](https://replit.com/@YOSRcharek/TheFinalSection)
+🕹️ Try my interactive Pac-Man game online: [Play Now](https://3f1b73d5-9ed6-4d35-adfc-df3d4db843b5-00-bk33cyxla98a.worf.replit.dev/)
+
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
