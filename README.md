@@ -160,6 +160,7 @@
 ---
 
 ## 📊 GitHub Stats
+🔥 **GitHub Streak** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧩 **Most Used Languages**  
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOSRcharek&theme=default)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOSRcharek&layout=compact&theme=default)
 
 ---
