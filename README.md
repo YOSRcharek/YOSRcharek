@@ -160,22 +160,13 @@
 ---
 
 ## 📊 GitHub Stats
+🔥 GitHub Streak  
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOSRcharek&theme=default)](https://git.io/streak-stats)  
 
-<div style="display: flex; gap: 40px; justify-content: center; flex-wrap: wrap; align-items: flex-start;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- GitHub Streak -->
-  <div style="text-align: center;">
-    <a href="https://git.io/streak-stats" target="_blank">
-      <img src="https://streak-stats.demolab.com?user=YOSRcharek&theme=default" alt="GitHub Streak" style="max-width: 300px;">
-    </a>
-  </div>
-
-  <!-- Most Used Languages -->
-  <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOSRcharek&layout=compact&theme=default" alt="Top Languages" style="max-width: 300px;">
-  </div>
-
-</div>
+🧩 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOSRcharek&layout=compact&theme=default)
 
 
 ---
