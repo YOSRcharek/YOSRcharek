@@ -163,12 +163,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YOSRcharek&theme=default&hide_border=false)](https://git.io/streak-stats)
 &nbsp;&nbsp;&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats-github-proxy.vercel.app/api/top-langs/?username=YOSRcharek&layout=compact&theme=default)
+![Top Langs](https://raw.githubusercontent.com/YOSRcharek/github-stats-proxy/output/langs.svg)
 
 ---
 
 ### ⭐ Total Contributions  
-![YOSR's GitHub Stats](https://github-readme-stats-github-proxy.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default&hide_title=false&hide_border=true&count_private=true&include_all_commits=true)
+![YOSR's GitHub Stats](https://raw.githubusercontent.com/YOSRcharek/github-stats-proxy/output/stats.svg)
 
 ---
 
