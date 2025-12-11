@@ -166,7 +166,7 @@
 ---
 
 ### ⭐ Total Contributions 
-![YOSR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default&hide_title=false&hide_border=true&count_private=true&include_all_commits=true) pour il ne s'afficha pas ? 
+![YOSR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOSRcharek&show_icons=true&theme=default&hide_title=false&hide_border=true&count_private=true&include_all_commits=true) 
 ---
 
 ### 📅 Activity Graph
